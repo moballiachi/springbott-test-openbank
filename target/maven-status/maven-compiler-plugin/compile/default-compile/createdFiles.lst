@@ -1,0 +1,8 @@
+com/globant/openbank/controller/MessageController.class
+com/globant/openbank/beans/Belatrix.class
+com/globant/openbank/beans/GloberManager.class
+com/globant/openbank/beans/IMessage.class
+com/globant/openbank/beans/Globant.class
+com/globant/openbank/controller/OpenBankController.class
+com/globant/openbank/demoopenbank/DemoOpenbankApplication.class
+com/globant/openbank/beans/GloberReply.class
